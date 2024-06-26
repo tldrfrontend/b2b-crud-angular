@@ -6930,6 +6930,15 @@
         "hash": "sha512-8XPvpAA8uyhfteu8pIvQxpJZ7SYYdpUivZpGy6sFsBuKRY/7rQGavedeB8aK+Zkyq6upMFVL/9AW6vOYzfRyLg=="
       }
     },
+    "npm:luxon": {
+      "type": "npm",
+      "name": "npm:luxon",
+      "data": {
+        "version": "3.4.4",
+        "packageName": "luxon",
+        "hash": "sha512-zobTr7akeGHnv7eBOXcRgMeCP6+uyYsczwmeRCauvpvaAltgNyTbLH/+VaEAPUeWBT+1GuNmz4wC/6jtQzbbVA=="
+      }
+    },
     "npm:magic-string": {
       "type": "npm",
       "name": "npm:magic-string",
